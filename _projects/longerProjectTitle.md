@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Analyzing Crime Trends and Enhancing Safety: Prioritizing Bus Stops in Urban Areas
-description: This project analyzes crime rates and resource allocation at bus stops in Washington D.C. wards, aiming to identify high-crime areas and recommend improvements to enhance rider safety by examining trends in security personnel, street lights, and cameras.
+title: A longer Project Title
+description: short project description
 ---
+
+Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
 ============
@@ -15,6 +17,15 @@ look like:
   * this one
   * that one
   * the other one
+
+Note that the actual text
+content starts at 4-columns in.
+
+> Block quotes are
+> written like so.
+>
+> They can span multiple paragraphs,
+> if you like.
 
 
 H2 Header
@@ -38,6 +49,24 @@ indenting the block, you can use delimited blocks, if you like:
 ~~~
 define foobar() {
     print "Welcome to flavor country!";
+}
+~~~
+
+(which makes copying & pasting easier). You can optionally mark the
+delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
+
+~~~cpp
+#include <iostream>
+using namespace std;
+
+int main() 
+{    
+    cout << "Size of char: " << sizeof(char) << " byte" << endl;
+    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
+    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
+
+    return 0;
 }
 ~~~
 
