@@ -4,8 +4,8 @@ title: Janet Chan
 description: Aspiring Data Analyst & Technology Enthusiast | Open to All Opportunities
 
 baseurl: /gradfolio #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
+url: "https://jchan125.github.io" #custom url to be used instead of GitHub repository
+email: janetchan1257@gmail.com
 
 # Pagination
 paginate: 4
@@ -13,15 +13,8 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+linkedin: "janetchan1"
+github: "jchan125"
 
 
 # Markdown
