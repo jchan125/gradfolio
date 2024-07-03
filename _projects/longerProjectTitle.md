@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Analyzing Crime Trends and Enhancing Safety in Urban Areas
-description: This project analyzes crime rates and resource allocation at bus stops in Washington D.C. wards, aiming to identify high-crime areas and recommend improvements to enhance rider safety by examining trends in security personnel, street lights, and cameras.
+description: This project analyzes crime rates at Washington D.C. bus stops to enhance rider safety by pinpointing high-crime areas and proposing security improvements.
 ---
 
-Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
-
-H1 Header
+Analyzing Crime Trends and Enhancing Safety in Urban Areas
 ============
 
-Paragraphs are separated by a blank line.
+Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 
 2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
 look like:
