@@ -3,7 +3,7 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: photo.jpg
+  image: GradPhoto.jpg
 published: true
 ---
 Hi there, my name is Janet Chan!
