@@ -8,9 +8,9 @@ url: "https://jchan125.github.io" #custom url to be used instead of GitHub repos
 email: janetchan1257@gmail.com
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+#paginate: 4
+#permalink: /blog/:year/:title/
+#paginate_path: /blog/page:num/
 
 # Social media links in footer
 linkedin: "janetchan1"
