@@ -8,7 +8,7 @@ published: true
 ---
 Hi there, my name is Janet Chan!
 
-I'm a recent graduate from the `University of Maryland, College Park` with a Bachelor of Science in `Information Science`. Specializing in Data Science, I have developed a solid foundation in Python, SQL, R, and data visualization tools like Tableau. My minor in `Science, Technology, Ethics, and Policy (STEP)` complements my technical expertise with a broader understanding of technology's ethical and policy implications.
+I'm a recent graduate from the `University of Maryland` with a Bachelor of Science in `Information Science`. Specializing in Data Science, I have developed a solid foundation in Python, SQL, R, and data visualization tools like Tableau. My minor in `Science, Technology, Ethics, and Policy (STEP)` complements my technical expertise with a broader understanding of technology's ethical and policy implications.
 
 Throughout my academic and professional journey, I have honed my skills through various roles and projects. As an `Undergraduate Teaching Assistant`, I guided students in developing functional app prototypes, integrating discussions on metadata schemas for effective data organization. My role as a Student Lead at `Terrapin Tech`, under the Division of Information Technology, allowed me to supervise and mentor a team, significantly increasing productivity and customer satisfaction. Additionally, I enhanced `MyCyberExec`’s website, leading to a substantial increase in user engagement.
 
