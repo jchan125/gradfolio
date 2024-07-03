@@ -41,24 +41,6 @@ define foobar() {
 }
 ~~~
 
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
-
-~~~cpp
-#include <iostream>
-using namespace std;
-
-int main() 
-{    
-    cout << "Size of char: " << sizeof(char) << " byte" << endl;
-    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
-    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
-    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
-
-    return 0;
-}
-~~~
-
 ### An H3 header ###
 
 Now a nested list:
