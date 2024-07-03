@@ -1,10 +1,10 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Analyzing Crime Trends and Enhancing Safety in Urban Areas
+description: This project analyzes crime rates and resource allocation at bus stops in Washington D.C. wards, aiming to identify high-crime areas and recommend improvements to enhance rider safety by examining trends in security personnel, street lights, and cameras.
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 
 H1 Header
 ============
