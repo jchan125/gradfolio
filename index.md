@@ -12,14 +12,12 @@ I am a recent graduate of the University of Maryland with a Bachelor of Science 
 
 Throughout my academic and professional journey, I have honed my skills through various roles and projects. As an `Undergraduate Teaching Assistant`, I guided students in developing functional app prototypes, integrating discussions on metadata schemas for effective data organization. My role as a Student Lead at `Terrapin Tech`, under the Division of Information Technology, allowed me to supervise and mentor a team, significantly increasing productivity and customer satisfaction. Additionally, I enhanced `MyCyberExec`’s website, leading to a substantial increase in user engagement.
 
-My portfolio includes projects that showcase my analytical abilities, such as the Washington Suburban Transit Commission Ridership Analysis and crime trend analysis in urban areas. These projects highlight my proficiency in Python and ArcGIS, as well as my ability to derive actionable insights from complex datasets.
+My portfolio includes projects that showcase my analytical abilities, such as the Washington Suburban Transit Commission Ridership Analysis and crime trend analysis in urban areas. To see more projects:
+[Projects](https://github.com/jitinnair1/gradfolio](https://jchan125.github.io/gradfolio/projects/){:target="_blank"} 
 
-I am passionate about leveraging data to drive informed decision-making and create innovative solutions. My technical skills, coupled with my experience in teaching, leadership, and customer service, enable me to communicate effectively with both technical and non-technical stakeholders.
+I am passionate about leveraging data for informed decision-making and innovative solutions. My technical skills, combined with experience in teaching, leadership, and customer service, allow me to communicate effectively with both technical and non-technical stakeholders.
 
-I am excited to continue growing in the field of data science, contributing to meaningful projects, and collaborating with diverse teams to solve real-world problems.
-
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} 
-
+I am excited to grow in data science, contribute to meaningful projects, and collaborate with diverse teams to solve real-world problems.
 
 ### Also, check out:
 
