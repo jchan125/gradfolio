@@ -36,18 +36,23 @@ Facing a lack of existing datasets, my team and I compiled data from Last FM and
 ### Glimpse of the Tables###
 
 `This depicts the main table of "Band"`
+
 ![band_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/band_table.png?raw=true)
 
 `This depicts the main table of "Artists"`
+
 ![artists_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/artist_table.png?raw=true)
 
 `This depicts the reference table of "Instruments"`
+
 ![instruments_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/instrument_table.png?raw=true)
 
 `This depicts the reference table of "Albums"`
+
 ![album_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/album_table.png?raw=true)
 
 `This depicts the linking table of "Band_instruments"`
+
 ![band_instruments_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/band_instruments_table.png?raw=true)
 
 
