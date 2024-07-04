@@ -31,7 +31,7 @@ The database design ensures information is presented clearly and intuitively. Th
 
 ### Sample Data ###
 
-Facing a lack of existing datasets, my team and I compiled data from [DC Artists](www.last.fm/tag/dc/artists){:target="_blank"}, [DMV Artists](www.last.fm/tag/dmv/artists){:target="_blank"}, and [Top DMV Artists](www.dmvlife.com/dmvartists.html){:target="_blank"}
+Facing a lack of existing datasets, my team and I compiled data from [DC Artists](https://www.last.fm/tag/dc/artists){:target="_blank"}, [DMV Artists](https://www.last.fm/tag/dmv/artists){:target="_blank"}, and [Top DMV Artists](https://www.dmvlife.com/dmvartists.html){:target="_blank"}
  and DMV Life, using tags for "DMV" and "DC" artists. Due to the formatting of these websites, we had to manually compile this data ourselves in individual .csv files. Key details gathered included artist/band names, album names, record label names, records sold, years active, genres, and types of instruments used. This data was structured into 11 tables covering 30 solo artists, 60 bands, 433 albums, and 55 record labels in our database.
 
 ### Glimpse of the Tables ###
@@ -39,7 +39,7 @@ Facing a lack of existing datasets, my team and I compiled data from [DC Artists
 `This depicts the main table of "Bands"`
 
 
-<img src="/assets/images/band_table.png" width=500 alt="Picture of Bands table">
+<img src="/assets/images/band_table.png?raw=true" width=500 alt="Picture of Bands table">
 
 `This depicts the main table of "Artists"`
 
