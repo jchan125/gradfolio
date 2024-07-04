@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Analyzing Crime Trends and Enhancing Safety in Urban Areas
-description: This project analyzes crime rates at Washington D.C. bus stops to enhance rider safety by pinpointing high-crime areas and proposing security improvements.
+description: This project analyzes crime rates at Washington D.C. bus stops to enhance rider safety
 ---
 
 ### Introduction ###
