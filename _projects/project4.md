@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WSTC Missed Trips Analysis
-description: Analyzing bus ridership for equitable transport in Maryland
+description: My Capstone project analyzing bus ridership for equitable transport in Maryland
 ---
 
 The mission of the Washington Suburban Transit Commission (WSTC) is to enhance public transportation services and infrastructure in Montgomery County and Prince George's County, Maryland, with a focus on promoting efficient, accessible, and sustainable mass transit options. This project analyzes bus ridership data related to missed trips from three bus service providers: WMATA, Ride On, and The Bus. It also examines these missed trips in relation to Equity Emphasis Areas, which are regions with high concentrations of low-income individuals and/or traditionally disadvantaged racial and ethnic groups.
