@@ -6,15 +6,39 @@ description: This project analyzes crime rates at Washington D.C. bus stops to e
 
 Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+**Introduction**
+With the rise in violent crimes, there's a need to analyze current preventative measures and resource allocation, particularly at bus stops in urban areas like the DMV. This project aims to identify wards with the highest crime rates and assess trends in resource allocation, focusing on bus stops.
 
-  * this one
-  * that one
-  * the other one
+`Objective:`
+ * Enhance safety at bus stops by reallocating resources such as security personnel, street lights, and cameras.
 
-Note that the actual text
-content starts at 4-columns in.
+`Importance:` 
+ * Prioritize rider safety due to the benefits and reliability of buses as a mode of commute.
+
+'Datasets Used:'
+Crime Incidents 2022:
+Analyzed characteristics: 
+* Ward
+* Shift (time of day)
+* Offense type
+
+`Offenses"
+* Auto theft
+* Motor vehicle theft
+* Robbery
+* Assault with a dangerous weapon
+* Burglary
+* Homicide
+* Sex abuse
+* Arson
+
+`Metro Bus Stops:`
+* Service effective dates
+* Presence of street lights within 30 feet
+* Street locations.
+
+
+`Outcome:` Identify wards with high crime rates, and provide recommendations for resource reallocation to improve bus stop safety..
 
 > Block quotes are
 > written like so.
