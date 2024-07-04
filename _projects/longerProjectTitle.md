@@ -29,18 +29,19 @@ With the rise in violent crimes, there's a need to analyze current preventative 
 
 The datasets were merged to find correlations between bus stop locations and crime rates. Visualizations were created to identify wards with high crime rates and inadequate resource allocation. Based on these findings, suggestions were provided for reallocating preventative services to enhance bus stop safety.
 
-from the left side). Here's a code sample:
+Python Libraries Used:
+* Pandas
+* Matplotlib
+* Folium
 
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
 
 ~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
+offenses_day = crime_bus_df.groupby(['WARD', 'TIME'])['OFFENSE'].size().reset_index()
+offenses_day.pivot(index = 'WARD', columns = 'TIME', values = 'OFFENSE').plot(kind='bar')
+plt.xlabel('WARD')
+plt.ylabel('Number of Offenses')
+plt.title('Number of Offenses by Time of Day')
+plt.show()
 ~~~
 
 ~~~cpp
