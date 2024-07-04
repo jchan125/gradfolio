@@ -6,7 +6,7 @@ description: This project analyzes crime rates at Washington D.C. bus stops to e
 
 1st Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 
-2nd Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops-2/about){:target="_blank"}.
+2nd Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore){:target="_blank"}.
 
 ### Introduction ###
 
