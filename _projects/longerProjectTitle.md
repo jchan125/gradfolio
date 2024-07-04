@@ -56,7 +56,7 @@ plt.ylabel('Number of Offenses')
 plt.title('Number of Offenses by Time of Day in Ward 2')
 plt.show()
 ~~~
-![Chart_2](https://github.com/jchan125/gradfolio/blob/master/assets/images/Image2_CrimeIncident.png)
+![Chart_2](https://github.com/jchan125/gradfolio/blob/master/assets/images/Image2_CrimeIncident.png?raw=true)
 
 The graph above focuses in on Ward 2, as they have the highest number of offenses. 9th ST NW's bus stop has a lot of crimes happening during the day and evening while comparing that to midnight.
 
@@ -67,6 +67,6 @@ plt.ylabel('Number of Offenses')
 plt.title('Street Lights in Relation to Number of Offenses')
 plt.show()
 ~~~
-![Chart_3](https://github.com/jchan125/gradfolio/blob/master/assets/images/Image3_CrimeIncident.png)
+![Chart_3](https://github.com/jchan125/gradfolio/blob/master/assets/images/Image3_CrimeIncident.png?raw=true)
 
 The graph above shows that overall streetlights are being implemented, but they're not affecting the number of offenses per ward.
