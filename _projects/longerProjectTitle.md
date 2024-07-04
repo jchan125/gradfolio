@@ -7,6 +7,7 @@ description: This project analyzes crime rates at Washington D.C. bus stops to e
 Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 
 **Introduction**
+
 With the rise in violent crimes, there's a need to analyze current preventative measures and resource allocation, particularly at bus stops in urban areas like the DMV. This project aims to identify wards with the highest crime rates and assess trends in resource allocation, focusing on bus stops.
 
 `Objective:`
