@@ -44,6 +44,8 @@ plt.title('Number of Offenses by Time of Day')
 plt.show()
 ~~~
 
+![chart1](https://drive.google.com/file/d/1jweSwcEKu5DcE7fTVds5vvEm2pArSmLi/view?usp=sharing")
+
 ~~~cpp
 offenses_day = crime_bus_df.groupby(['WARD', 'TIME'])['OFFENSE'].size().reset_index()
 offenses_day.pivot(index = 'WARD', columns = 'TIME', values = 'OFFENSE').plot(kind='bar')
@@ -84,17 +86,6 @@ that last line which continues item 3 above).
 Here's a footnote [^1].
 
 [^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
 
 
 A horizontal rule follows.
