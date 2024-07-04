@@ -44,7 +44,6 @@ plt.title('Number of Offenses by Time of Day')
 plt.show()
 ~~~
 
-![chart1](https://drive.google.com/file/d/1jweSwcEKu5DcE7fTVds5vvEm2pArSmLi/view?usp=sharing")
 
 ~~~cpp
 offenses_day = crime_bus_df.groupby(['WARD', 'TIME'])['OFFENSE'].size().reset_index()
