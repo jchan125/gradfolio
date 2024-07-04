@@ -25,14 +25,13 @@ This unique database highlights the achievements of 30 solo artists and 60 bands
 
 ### Logical Design ###
 
-<img src="/assets/images/image_ERD.png" width=500 alt="Picture of ERD Diagram">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/image_ERD.png?raw=true" width=500 alt="Picture of ERD Diagram">
 
 The database design ensures information is presented clearly and intuitively. The ERD tables capture essential details about artists, their albums, record labels, and instruments. By separating properties for artists and bands, the design remains organized and uncluttered. This structure makes it easy to understand table relationships and key connections.
 
 ### Sample Data ###
 
-Facing a lack of existing datasets, my team and I compiled data from [DC Artists](https://www.last.fm/tag/dc/artists){:target="_blank"}, [DMV Artists](https://www.last.fm/tag/dmv/artists){:target="_blank"}, and [Top DMV Artists](https://www.dmvlife.com/dmvartists.html){:target="_blank"}
- and DMV Life, using tags for "DMV" and "DC" artists. Due to the formatting of these websites, we had to manually compile this data ourselves in individual .csv files. Key details gathered included artist/band names, album names, record label names, records sold, years active, genres, and types of instruments used. This data was structured into 11 tables covering 30 solo artists, 60 bands, 433 albums, and 55 record labels in our database.
+Facing a lack of existing datasets, my team and I compiled data from [DC Artists](https://www.last.fm/tag/dc/artists){:target="_blank"}, [DMV Artists](https://www.last.fm/tag/dmv/artists){:target="_blank"}, and [Top DMV Artists](https://www.dmvlife.com/dmvartists.html){:target="_blank"}, using tags for "DMV" and "DC" artists. Due to the formatting of these websites, we had to manually compile this data ourselves in individual .csv files. Key details gathered included artist/band names, album names, record label names, records sold, years active, genres, and types of instruments used. This data was structured into 11 tables covering 30 solo artists, 60 bands, 433 albums, and 55 record labels in our database.
 
 ### Glimpse of the Tables ###
 
