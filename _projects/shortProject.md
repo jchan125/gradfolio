@@ -25,7 +25,7 @@ This unique database highlights the achievements of 30 solo artists and 60 bands
 
 ### Logical Design ###
 
-![ERD_Diagram](https://github.com/jchan125/gradfolio/blob/master/assets/images/image_ERD.png?raw=true)
+<img src="/assets/images/image_ERD.png" width=500 alt="Picture of ERD Diagram">
 
 The database design ensures information is presented clearly and intuitively. The ERD tables capture essential details about artists, their albums, record labels, and instruments. By separating properties for artists and bands, the design remains organized and uncluttered. This structure makes it easy to understand table relationships and key connections.
 
@@ -35,30 +35,25 @@ Facing a lack of existing datasets, my team and I compiled data from Last FM and
 
 ### Glimpse of the Tables ###
 
-`This depicts the main table of "Band"`
+`This depicts the main table of "Bands"`
 
-![band_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/band_table.png?raw=true)
+
+<img src="/assets/images/band_table.png" width=500 alt="Picture of Bands table">
 
 `This depicts the main table of "Artists"`
 
-![artists_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/artist_table.png?raw=true)
+<img src="/assets/images/artist_table.png" width=500 alt="Picture of Artists table">
 
 `This depicts the reference table of "Instruments"`
 
-![instruments_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/instrument_table.png?raw=true)
+<img src="/assets/images/instrument_table.png" height="450" alt="Picture of Instruments table">
 
 `This depicts the reference table of "Albums"`
 
-![album_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/album_table.png?raw=true)
+<img src="/assets/images/album_table.png" height="450" alt="Picture of Albums table">
 
 `This depicts the linking table of "Band_instruments"`
 
-![band_instruments_table](https://github.com/jchan125/gradfolio/blob/master/assets/images/band_instruments_table.png?raw=true)
-
-
-
-
-
-
+<img src="/assets/images/band_instruments_table.png" height="450" alt="Picture of Band_instruments table">
 
 
