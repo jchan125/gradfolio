@@ -24,7 +24,7 @@ I utilized Trello for work breakdown structure and to track our progress on this
 * ArcGIS Online for mapping
 
 ### Code Examples with Outputs ###
-* Variable names and code have been edited for anonymity*
+* Variable names and code have been edited for anonymity *
 ~~~python
 Depot_EventTypes = Bus_Depot.groupby('EventType').size().sort_values(ascending=False)
 plt.style.use('default')
