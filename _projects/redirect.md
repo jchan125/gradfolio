@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Click to Redirect to Project
-description: with no page entry here
-redirect: https://unsplash.com
+title: Exploring Free Public Wi-Fi Hotspot Locations in NYC
+description: Maps free WiFi hotspots in NYC
+redirect: https://jchan125.github.io/INST377-Final/
 ---
