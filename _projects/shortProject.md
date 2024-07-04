@@ -25,7 +25,7 @@ This unique database highlights the achievements of 30 solo artists and 60 bands
 
 ### Logical Design ###
 
-![ERD_Diagram](https://github.com/jchan125/gradfolio/blob/master/assets/images/image_ERD.png)
+![ERD_Diagram](https://github.com/jchan125/gradfolio/blob/master/assets/images/image_ERD.png?raw=true)
 
 The database design ensures information is presented clearly and intuitively. The ERD tables capture essential details about artists, their albums, record labels, and instruments. By separating properties for artists and bands, the design remains organized and uncluttered. This structure makes it easy to understand table relationships and key connections.
 
