@@ -11,21 +11,19 @@ With the rise in violent crimes, there's a need to analyze current preventative 
 `The Analyzed Characteristics of Each Dataset`
 1. Crime Incidents 2022
 
-      Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
-   
+      Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}
 * Ward
 * Shift (time of day)
 * Offense types include auto theft, motor vehicle theft, robbery, assault with a dangerous weapon, burglary, homicide, sex abuse, and arson
 
 2. Metro Bus Stops
    
-      Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore){:target="_blank"}.
-   
+      Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore){:target="_blank"}
 * Service effective dates for each ward
 * Presence of street lights within 30 feet
 * Street locations
 
-`Outcome:` Identify wards with high crime rates, and provide recommendations for resource reallocation to improve bus stop safety..
+`Outcome:` Identify wards with high crime rates, and provide recommendations for resource reallocation to improve bus stop safety.
 
 ### Method ###
 
