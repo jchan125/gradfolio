@@ -4,21 +4,21 @@ title: Analyzing Crime Trends and Enhancing Safety in Urban Areas
 description: This project analyzes crime rates at Washington D.C. bus stops to enhance rider safety by pinpointing high-crime areas and proposing security improvements.
 ---
 
-1st Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
-
-2nd Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore){:target="_blank"}.
-
 ### Introduction ###
 
 With the rise in violent crimes, there's a need to analyze current preventative measures and resource allocation, particularly at bus stops in urban areas like the DMV. This project aims to identify wards with the highest crime rates and assess trends in resource allocation, focusing on bus stops.
 
 `The Analyzed Characteristics of Each Dataset`
 1. Crime Incidents 2022
+
+      Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
 * Ward
 * Shift (time of day)
 * Offense types include auto theft, motor vehicle theft, robbery, assault with a dangerous weapon, burglary, homicide, sex abuse, and arson
 
 2. Metro Bus Stops
+   
+      Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops/explore){:target="_blank"}.
 * Service effective dates for each ward
 * Presence of street lights within 30 feet
 * Street locations
