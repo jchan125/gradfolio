@@ -4,7 +4,9 @@ title: Analyzing Crime Trends and Enhancing Safety in Urban Areas
 description: This project analyzes crime rates at Washington D.C. bus stops to enhance rider safety by pinpointing high-crime areas and proposing security improvements.
 ---
 
-Dataset Used: [here](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
+1st Dataset Used: [Crime Incident Reported (DC)](https://opendata.dc.gov/datasets/DCGIS::crime-incidents-in-2022/about){:target="_blank"}.
+
+2nd Dataset Used: [Metro Bus Stops (DC)](https://opendata.dc.gov/datasets/DCGIS::metro-bus-stops-2/about){:target="_blank"}.
 
 ### Introduction ###
 
@@ -23,23 +25,10 @@ With the rise in violent crimes, there's a need to analyze current preventative 
 
 `Outcome:` Identify wards with high crime rates, and provide recommendations for resource reallocation to improve bus stop safety..
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+### Method ###
 
+The datasets were merged to find correlations between bus stop locations and crime rates. Visualizations were created to identify wards with high crime rates and inadequate resource allocation. Based on these findings, suggestions were provided for reallocating preventative services to enhance bus stop safety.
 
-H2 Header
-------------
-
-Here's a numbered list:
-
- 1. first item
- 2. second item
- 3. third item
-
-Note again how the actual text starts at 4 columns in (4 characters
 from the left side). Here's a code sample:
 
     # Let me re-iterate ...
@@ -54,22 +43,13 @@ define foobar() {
 }
 ~~~
 
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
-
 ~~~cpp
-#include <iostream>
-using namespace std;
-
-int main() 
-{    
-    cout << "Size of char: " << sizeof(char) << " byte" << endl;
-    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
-    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
-    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
-
-    return 0;
-}
+offenses_day = crime_bus_df.groupby(['WARD', 'TIME'])['OFFENSE'].size().reset_index()
+offenses_day.pivot(index = 'WARD', columns = 'TIME', values = 'OFFENSE').plot(kind='bar')
+plt.xlabel('WARD')
+plt.ylabel('Number of Offenses')
+plt.title('Number of Offenses by Time of Day')
+plt.show()
 ~~~
 
 ### An H3 header ###
