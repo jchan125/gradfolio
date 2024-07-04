@@ -4,9 +4,9 @@ title: WSTC Missed Trips Analysis
 description: My Capstone project analyzing bus ridership for equitable transport in Maryland
 ---
 
-The mission of the Washington Suburban Transit Commission (WSTC) is to enhance public transportation services and infrastructure in Montgomery County and Prince George's County, Maryland, with a focus on promoting efficient, accessible, and sustainable mass transit options. This project analyzes bus ridership data related to missed trips from three bus service providers: WMATA, Ride On, and The Bus. It also examines these missed trips in relation to Equity Emphasis Areas, which are regions with high concentrations of low-income individuals and/or traditionally disadvantaged racial and ethnic groups.
+The mission of the Washington Suburban Transit Commission (WSTC) is to enhance public transportation services and infrastructure in Montgomery County and Prince George's County, Maryland, with a focus on promoting efficient, accessible, and sustainable mass transit options. This project analyzes bus ridership data related to missed trips from three bus service providers: WMATA, Ride On, and The Bus. It also examines these missed trips in relation to Equity Emphasis Areas, which are regions with high concentrations of low-income individuals and/or traditionally disadvantaged racial and ethnic groups. The project aims to provide insights to the WSTC on factors contributing to missed trips, supporting their mission to improve transportation services for underprivileged communities.
 
-*To protect confidentiality, sensitive information such as specific bus routes, names, and operator numbers has been omitted or anonymized per security guidelines. The project aims to provide insights to the WSTC on factors contributing to missed trips, supporting their mission to improve transportation services for underprivileged communities.*
+*To protect confidentiality, sensitive information such as specific bus routes, EventType names, and any other sensitive information has been omitted or anonymized per security guidelines. In addition, numbers have been skewed for additional protective measures.*
 
 *This summary maintains the project's focus and goals while ensuring that sensitive information is safeguarded*
 
