@@ -43,7 +43,7 @@ plt.ylabel('Number of Offenses')
 plt.title('Number of Offenses by Time of Day')
 plt.show()
 ~~~
-<img src="profile.png" alt="image">
+<img src="GradPhoto.jpg" alt="image">
 
 
 ~~~cpp
