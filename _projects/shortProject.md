@@ -25,5 +25,5 @@ This unique database highlights the achievements of 30 solo artists and 60 bands
 
 ### Logical Design ###
 
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
+![ERD_Diagram](https://github.com/jchan125/gradfolio/blob/master/assets/images/image_ERD.png)
 
