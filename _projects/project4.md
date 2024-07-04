@@ -1,13 +1,16 @@
 ---
 layout: post
-title: Project 4
-description: another project
+title: WSTC Missed Trips Analysis
+description: Analyzing bus ridership for equitable transport in Maryland
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+The mission of the Washington Suburban Transit Commission (WSTC) is to enhance public transportation services and infrastructure in Montgomery County and Prince George's County, Maryland, with a focus on promoting efficient, accessible, and sustainable mass transit options. This project analyzes bus ridership data related to missed trips from three bus service providers: WMATA, Ride On, and The Bus. It also examines these missed trips in relation to Equity Emphasis Areas, which are regions with high concentrations of low-income individuals and/or traditionally disadvantaged racial and ethnic groups.
 
-H1 Header
-============
+*To protect confidentiality, sensitive information such as specific bus routes, names, and operator numbers has been omitted or anonymized per security guidelines. The project aims to provide insights to the WSTC on factors contributing to missed trips, supporting their mission to improve transportation services for underprivileged communities.*
+
+*This summary maintains the project's focus and goals while ensuring that sensitive information is safeguarded*
+
+I worked as the Project Manager and Data Analyst on this project and will be presenting what I have contributed.
 
 Paragraphs are separated by a blank line.
 
