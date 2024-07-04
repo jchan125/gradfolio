@@ -1,7 +1,7 @@
 ---
 layout: post
-title: DMV Music Database 
-description: Database highlighting DMV's musicians and trends
+title: DMV Music Database
+description: A SQL Database highlighting DMV's musicians and trends
 ---
 
 This unique database highlights the achievements of 30 solo artists and 60 bands from the Washington, D.C. area, covering genres like go-go, jazz, rap, R&B, and punk rock, to increase their global recognition and showcase music trends over the last four decades.
