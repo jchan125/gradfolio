@@ -38,22 +38,22 @@ Facing a lack of existing datasets, my team and I compiled data from [DC Artists
 `This depicts the main table of "Bands"`
 
 
-<img src="/assets/images/band_table.png?raw=true" width=500 alt="Picture of Bands table">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/band_table.png?raw=true" width=500 alt="Picture of Bands table">
 
 `This depicts the main table of "Artists"`
 
-<img src="/assets/images/artist_table.png" width=500 alt="Picture of Artists table">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/artist_table.png?raw=true" width=500 alt="Picture of Artists table">
 
 `This depicts the reference table of "Instruments"`
 
-<img src="/assets/images/instrument_table.png" height="450" alt="Picture of Instruments table">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/instrument_table.png?raw=true" height="450" alt="Picture of Instruments table">
 
 `This depicts the reference table of "Albums"`
 
-<img src="/assets/images/album_table.png" height="450" alt="Picture of Albums table">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/album_table.png?raw=true" height="450" alt="Picture of Albums table">
 
 `This depicts the linking table of "Band_instruments"`
 
-<img src="/assets/images/band_instruments_table.png" height="450" alt="Picture of Band_instruments table">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/band_instruments_table.png?raw=true" height="450" alt="Picture of Band_instruments table">
 
 
