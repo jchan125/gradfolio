@@ -33,7 +33,7 @@ The database design ensures information is presented clearly and intuitively. Th
 
 Facing a lack of existing datasets, my team and I compiled data from Last FM and DMV Life, using tags for "DMV" and "DC" artists. Due to the formatting of these websites, we had to manually compile this data ourselves in individual .csv files. Key details gathered included artist/band names, album names, record label names, records sold, years active, genres, and types of instruments used. This data was structured into 11 tables covering 30 solo artists, 60 bands, 433 albums, and 55 record labels in our database.
 
-### Glimpse of the Tables###
+### Glimpse of the Tables ###
 
 `This depicts the main table of "Band"`
 
