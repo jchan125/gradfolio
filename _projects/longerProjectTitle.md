@@ -70,3 +70,32 @@ plt.show()
 ![Chart_3](https://github.com/jchan125/gradfolio/blob/master/assets/images/Image3_CrimeIncident.png?raw=true)
 
 The graph above shows that overall streetlights are being implemented, but they're not affecting the number of offenses per ward.
+
+### Summary ###
+
+The discussion analyzes the frequency, distribution, and timing of offenses, the impact of bus stop characteristics on crime rates, and the limitations of the data used.
+
+`Frequency of Offenses:`
+
+* Theft-related offenses are the most common, with "THEFT/OTHER" being the highest
+* D.C Metro Police should focus on preventing theft incidents
+
+`Timing of Offenses:`
+* Offenses frequently occur during the day and evening
+* Most wards experience more offenses during the day, while Ward 2 sees a higher rate during the evening
+* Suggest increased security presence in Ward 2 during the evening
+
+`Bus Stop Characteristics and Crime:`
+* No correlation found between street lights and reduced offenses
+* Offenses are higher within 30 feet of a street light in Ward 2, indicating a need for more robust prevention measures
+
+`Limitations:`
+* Data is limited to Washington, D.C., and the year 2022
+* The "THEFT/OTHER" category is too broad, limiting deeper analysis
+* Lack of data on the number and distribution of police officers
+* Absence of precise timestamps, relying only on broad time categories (day, evening, midnight)
+* High number of unknown values in the Metro Bus Stops dataset, especially in the street light column
+
+### Conclusion ###
+
+The analysis highlights the need for better security measures at bus stops, with a focus on theft prevention. Ward 2, particularly 9th St NW, requires more security during the evening. Effective crime prevention must extend beyond street lights to include features like emergency call boxes.
