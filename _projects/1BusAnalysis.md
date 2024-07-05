@@ -49,7 +49,7 @@ plt.gca().axes.get_xaxis().set_visible(False)
 plt.tight_layout()
 plt.show()
 ~~~
-<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/jan_EventTypes.png?raw=true" width=500 alt="Count of EventTypes">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/jan_EventType.png?raw=true" width=500 alt="Count of EventTypes">
 
 ~~~python
 Depot_Specific_Problems = Bus_Depot[Bus_Depot['EventType'] == 'Specific Event Type']
@@ -61,7 +61,7 @@ plt.gca().axes.get_yaxis().set_visible(False)
 plt.tight_layout()
 plt.show()
 ~~~
-<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/counts_specific_problem.png?raw=true" width=500 alt="Count of EventTypes">
+<img src="https://github.com/jchan125/gradfolio/blob/master/assets/images/counts_problem.png?raw=true" width=500 alt="Count of EventTypes">
 
 ~~~python
 Depot_Total_MissedTrips = Bus_Depot.groupby(Bus_Depot['Route']).size().sort_values(ascending=False)
