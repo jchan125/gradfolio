@@ -5,18 +5,18 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
 
 $spacing-unit:     30px;
-$light-gray: gray;
+$light-gray: #D8D5DB;
 $text-color:       #333;
-$background-color: #D8D5DB;
+$background-color: #23272d;
 $brand-color:      #60c17d;
 $projectbox-text:  #1e2126;
 
 // Color scheme for light fdfdfd
-$body-bg: #D8D5DB;
+$body-bg: #23272d;
 $projectbox: #c3e1c9;
 $text-color: #333;
 
 // Color scheme for dark modes #23272d
-$body-bg-dark: ##D8D5DB;
+$body-bg-dark: ##23272d;
 $projectbox-dark: lighten(#98a0ac, 2%);
 $text-color-dark: #98a0ac;
