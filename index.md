@@ -18,4 +18,4 @@ I am excited to grow in data science, contribute to meaningful projects, and col
 
 ### Also, check out my resume:
 
-- [Resume](https://drive.google.com/file/d/1VFDK_-mf-pU0vM3ZEP5M8XkysDhHZDF-/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1VFDK_-mf-pU0vM3ZEP5M8XkysDhHZDF-/view?usp=sharing){:target="_blank"}
