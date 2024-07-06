@@ -7,17 +7,16 @@ $base-line-height: 1.7;
 $spacing-unit:     30px;
 $light-gray: gray;
 $text-color:       #333;
-$background-color: #23272d; //23272d
-$brand-color:      #B0D7FF; //60c17d
+$background-color: #fdfdfd;
+$brand-color:      #60c17d;
 $projectbox-text:  #1e2126;
 
-// Color scheme for light fdfdfd
+// Color scheme for light
 $body-bg: #fdfdfd;
 $projectbox: #c3e1c9;
 $text-color: #333;
 
-// Color scheme for dark modes #23272d
+// Color scheme for dark modes
 $body-bg-dark: #23272d;
 $projectbox-dark: lighten(#98a0ac, 2%);
 $text-color-dark: #98a0ac;
-
